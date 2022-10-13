@@ -1,5 +1,6 @@
 # A prediction result of a game between two teams  
 1) Defining the question
+
 Predicting the result of a game between team 1 and team 2, based on who's home and who's away, and on whether or not the game is friendly (include rank in your training).
 
 a) Objectives
@@ -32,3 +33,6 @@ iii) Statistical Inferences
 iv) Logistic regression
 
 v) Polynomial regression
+
+
+
